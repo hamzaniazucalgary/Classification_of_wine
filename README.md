@@ -1,0 +1,1 @@
+This is simple project where we use a database from sklearn to make a machine learning model to classify different types of wines. It uses most of the data in the database for learning and uses some instances for testing purposes.
